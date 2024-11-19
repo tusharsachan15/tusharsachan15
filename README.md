@@ -36,27 +36,21 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ---
 
-### [Attendance Tracking System with Raspberry Pi](https://github.com/yourusername/project-link)
+### Attendance Tracking System with Raspberry Pi
 📋 **Description**: An IoT-based attendance tracking system using Raspberry Pi and an HTTP server to automate student attendance.  
 🔧 **Tech Used**: ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### [Real-Time Traffic Flow Prediction with Drones and Adaptive Signal Control](https://github.com/yourusername/project-link)
+### [Real-Time Traffic Flow Prediction with Drones and Adaptive Signal Control](https://github.com/tusharsachan15/Real-Time-Traffic-Flow-Prediction-with-Drones-and-Adaptive-Signal-Control)
 🚦 **Description**: A cutting-edge solution using drone technology, YOLOv8 object detection, and machine learning models to predict traffic flow and dynamically manage traffic signals.  
 🔧 **Tech Used**: ![YOLO](https://img.shields.io/badge/YOLOv8-2F4F4F?style=flat-square&logo=opencv&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### [Patient Diagnosis Classification](https://github.com/yourusername/project-link)
+### Patient Diagnosis Classification
 🩺 **Description**: Implementation of various machine learning algorithms like Gaussian Naive Bayes and Decision Trees to classify patient diagnoses.  
 🔧 **Tech Used**: ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### [ID3 Algorithm Implementation](https://github.com/yourusername/project-link)
-🌳 **Description**: A project where I implemented the ID3 decision tree algorithm to classify a dataset related to patient diagnoses.  
-🔧 **Tech Used**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
